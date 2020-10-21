@@ -77,3 +77,4 @@ E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
