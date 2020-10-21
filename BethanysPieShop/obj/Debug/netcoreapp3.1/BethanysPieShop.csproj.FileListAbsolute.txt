@@ -73,3 +73,4 @@ E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CoreCompileInputs.cache
 E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+E:\workspace\VisualStudio\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
